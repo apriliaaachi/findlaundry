@@ -1,0 +1,112 @@
+.top-navigation-wrapper{
+	height : 35px;
+	background-color : #0b51a9;
+	padding-right: 100px;
+}
+
+.top-navigation-container{
+	text-align: center;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 9px;
+    line-height: 100%;
+    background-image: url(https://static.vecteezy.com/system/resources/premium_previews/000/058/016/non_2x/blue-abstract-bubble-vector.jpg);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    letter-spacing: 4px;
+    overflow: hidden;
+}
+
+.top-navigation-right{
+	float: right;
+    line-height: 17px;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.top-navigation-right-text{
+	float: left;
+}
+
+.navbar-brand-go{
+	float: left;
+    height: 50px;
+    padding: 5px 5px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.w3-bar-item img {
+	height: 36px;
+	width: 102px;
+	bottom: 25px;
+}
+
+.menu-container {
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.transparant {
+	opacity: 0.8;
+	filter:alpha(opacity=80); 
+}
+
+.dark-blue {
+	background-color: #07417f;
+	color: #fff !important;
+	border-radius: 1px;
+}
+
+.button {
+	width: 150px;
+}
+
+.icon-blue {
+	color: #07417f !important;
+}
+
+.padding-baru {
+	padding-left: 500px;
+	padding-top: 64px;
+	padding-bottom: 8px;
+}
+
+
+/*.item img {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+    z-index: 1;
+    opacity: 0.7;
+}*/
+
+
+.footer-wrapper {
+	height: 150px;
+	background-color: #2b2b2b;
+
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+
+}
+
+.myLink {
+	display: none;
+
+}
+
+.mySlides {
+	display:none;
+
+}
+
+.w3-tag, .fa {
+	cursor:pointer;
+
+}
+
+.w3-tag {
+	height:15px;width:15px;padding:0;margin-top:6px;
+
+}
+
